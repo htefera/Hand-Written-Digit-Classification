@@ -5,6 +5,7 @@ performed an implemented using python for classifying hand written digits.
 ### Problem decomposition
 
 #### Step 1: The sigmoid function
+[Sigmoid Function](Images/sigmoid.png)
 
 #### Step 2: Feature normalization:
 #### Step 3: Cost function
