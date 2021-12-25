@@ -25,7 +25,7 @@ The cost function for a binary logistic regression for a given dataset can be gi
 <div align="center">
  Figure 2: Logistic regression cost function
  </div>
-
+<br>
 #### Step 4: Calculating the gradients
 In order to optimize the cost function we need to perform a derivation on the cost function
 with respect to the slope (W) and the bias (b) and results the following formulas.
@@ -33,6 +33,7 @@ with respect to the slope (W) and the bias (b) and results the following formula
  <div align="center">
   Figure: Gradient descent
  </div>
+ <br>
  
 #### Step 5: Making predictions
 Here we are predicting the positive examples of the data values (digits) when the value of the
@@ -65,6 +66,7 @@ To see the actual digit classification we need to run the learn_digits () functi
 <div align="center">
   Figure : Digit classification using logistic regression
   </div>
+  <br>
   
   
 From the displayed plot we can see that the dark pixels are located on the center of the image on
