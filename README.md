@@ -15,6 +15,6 @@ performed an implemented using python for classifying hand written digits.
 #### Step 5: Making predictions
 #### Step 6:Evaluation of the solution
 #### Step 7: Finding the best learning rate
-![Expermentation](Images/experiment.png)
+![Expermentation](Images/experment.png)
 #### Step 8: Learning to classify digits
-![Digit Classification](Images/results)
+![Digit Classification](Images/results.png)
