@@ -9,6 +9,8 @@ performed an implemented using python for classifying hand written digits.
 
 ![Sigmoid Function](Images/sigmoid.png)
 
+ Figure 1: Sigmoid Function 
+
 #### Step 2: Feature normalization:
 To normalize the features of an input data set X to have mean 0 and standard deviation 1.This
 simplifies learning task our model by making the data to have the same scale.
