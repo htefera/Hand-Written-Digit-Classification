@@ -45,7 +45,9 @@ performance values as below.
 ![Expermentation](Images/experment.png)
 <div align="center">
   Figure : Performance model over Iteration table
-  </div>
+  </div> 
+  <br>
+  
 #### Step 8: Learning to classify digits
 To see the actual digit classification we need to run the learn_digits () function and found the following classification result
 
