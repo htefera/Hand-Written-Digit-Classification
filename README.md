@@ -24,6 +24,7 @@ The cost function for a binary logistic regression for a given dataset can be gi
 ![Cost Function](Images/cost.png)
 <div align="center">
  Figure 2: Logistic regression cost function
+ </div>
 
 #### Step 4: Calculating the gradients
 In order to optimize the cost function we need to perform a derivation on the cost function
