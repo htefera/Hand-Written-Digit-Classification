@@ -9,8 +9,12 @@ performed an implemented using python for classifying hand written digits.
 
 #### Step 2: Feature normalization:
 #### Step 3: Cost function
+![Cost Function](Images/cost.png)
 #### Step 4: Calculating the gradients
+![Gradient descent](Images/gradient.png)
 #### Step 5: Making predictions
 #### Step 6:Evaluation of the solution
 #### Step 7: Finding the best learning rate
+![Expermentation](Images/experiment.png)
 #### Step 8: Learning to classify digits
+![Digit Classification](Images/results)
