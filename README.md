@@ -69,7 +69,7 @@ To see the actual digit classification we need to run the learn_digits () functi
   <br>
   
   
-From the displayed plot we can see that the dark pixels are located on the center of the image on
+From the plot, the the dark pixels are located on the center of the image on
 the some of the images especially on the top and bottom left of the plot, this means this dark pixel is
 unlikely to represent the number and the classifier will have less confidence to put it into the
 positive class.
