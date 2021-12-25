@@ -22,11 +22,17 @@ to scale the value of the different data sets to have mean 0 and standard deviat
 The cost function for a binary logistic regression for a given dataset can be given as shown below
 
 ![Cost Function](Images/cost.png)
+<div align="center">
+ Figure 2: Logistic regression cost function
 
 #### Step 4: Calculating the gradients
 In order to optimize the cost function we need to perform a derivation on the cost function
 with respect to the slope (W) and the bias (b) and results the following formulas.
 ![Gradient descent](Images/gradient.png)
+ <div align="center">
+  Figure: Gradient descent
+ </div>
+ 
 #### Step 5: Making predictions
 Here we are predicting the positive examples of the data values (digits) when the value of the
 sigmoid function is greater than 0.5 and negative example if the value is less than or equal to 0.5. If the value is greater than 0.5 it is
